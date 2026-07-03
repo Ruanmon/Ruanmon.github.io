@@ -1,61 +1,52 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Zijun Zhou 周子俊",
+    "email": "zjzhou_9808@outlook.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://ruanmon.github.io",
+    "summary": "数字IC工程师 @ 索尼半导体解决方案，移动系统事业部 / Digital IC Engineer @ Sony Semiconductor Solutions, Mobile System Business Division",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "",
+      "countryCode": "JP",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Ruanmon",
+        "url": "https://github.com/Ruanmon"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "索尼半导体解决方案 Sony Semiconductor Solutions Corporation",
+      "position": "数字IC工程师 Digital IC Engineer",
+      "website": "",
+      "startDate": "2024",
+      "endDate": "",
+      "summary": "移动系统事业部 Mobile System Business Division",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "名古屋大学 Nagoya University",
+      "area": "工学研究科 电子电气专攻 Graduate School of Engineering, Electrical and Electronic Engineering",
+      "studyType": "工学硕士 Master of Engineering",
+      "startDate": "2021",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "西安电子科技大学 Xidian University",
+      "area": "微电子科学与工程 Microelectronics Science and Engineering",
+      "studyType": "工学学士 Bachelor of Engineering",
+      "startDate": "2016",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     }

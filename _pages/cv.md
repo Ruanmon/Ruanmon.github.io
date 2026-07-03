@@ -11,35 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 工学硕士 Master of Engineering，电子电气专攻 Electrical and Electronic Engineering，名古屋大学 Nagoya University，2021 - 2023
+* 工学学士 Bachelor of Engineering，微电子科学与工程 Microelectronics Science and Engineering，西安电子科技大学 Xidian University，2016 - 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 - 至今 (Present): 数字IC工程师 Digital IC Engineer
+  * 索尼半导体解决方案 Sony Semiconductor Solutions Corporation
+  * 移动系统事业部 Mobile System Business Division
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 数字集成电路设计 Digital IC Design
 
 Publications
 ======
@@ -58,7 +41,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
